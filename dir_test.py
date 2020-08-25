@@ -1,6 +1,6 @@
-# Script Name		: dir_test.py
-# Author				: Craig Richards
-# Created				: 29th November 2011
+# Script Name		: MR.QUOC
+# Author				: QUOC
+# Created				: 25th 8  2020
 # Last Modified		:
 # Version				: 1.0
 # Modifications		:
